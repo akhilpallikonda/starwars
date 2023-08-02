@@ -1,0 +1,13 @@
+$primary-color: #cfe107;
+$secondary-color: #65bbee;
+$gray-color: #eaeaea;
+$size-xs: 0.25rem;
+$size-sm: 0.5rem;
+$size-md: 1rem;
+$size-l: 1.25rem;
+$size-xl: 1.5rem;
+$size-xxl: 3rem;
+@mixin border-rounded {
+  border: 1px solid $gray-color;
+  border-radius: 10px;
+}

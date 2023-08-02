@@ -6,4 +6,4 @@ This is a Starwars UI application developed using React JS with Next JS framewor
 - Run "npm run build"
 - Run "npm run dev"
 
-![Screenshot](image.png)
+![Screenshot](./public/screenshot.png)
